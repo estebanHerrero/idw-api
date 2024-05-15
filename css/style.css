@@ -217,8 +217,7 @@ a:hover {
 }
 .app {
     background-color: #FFCF96;
-    max-width: 1440px;
-    margin: 0 auto;
+    padding: 100px;
 }
 .app, .img {
     display: flex;
@@ -260,6 +259,7 @@ button {
     object-fit: cover;
     box-shadow: 0 5px 10px rgba(17, 0, 17, 0.3);
 }
+/*
 .mejorMes {
     background-color: #F6FDC3;
     color: #272727;
@@ -324,6 +324,7 @@ button {
 .derecha {
     display: flex;
 }
+*/
 .mejorAloja {
     background-color: #F6FDC3;
     padding: 40px 40px;
